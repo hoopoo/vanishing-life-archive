@@ -1,0 +1,9 @@
+{
+  "buildCommand": "npm run vercel-build",
+  "framework": "nextjs",
+  "installCommand": "npm install",
+  "env": {
+    "PUBLIC_STATIC_DATA": "1",
+    "NEXT_PUBLIC_PUBLIC_SITE": "1"
+  }
+}
