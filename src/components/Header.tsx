@@ -41,17 +41,11 @@ export function Header({ mode = "local" }: { mode?: "local" | "public" }) {
 
   return (
     <header className="border-b border-stone-200 bg-[#f9f7f4]">
-      {mode === "local" ? (
+      {mode === "local" && (
         <div className="border-b border-stone-200 bg-stone-100 px-4 py-2 text-center text-xs text-stone-600">
           <span className="tracking-widest uppercase">Local Observatory</span>
           <span className="mx-2">—</span>
           内部観測用。未整理の動画、AI分析、Human Noteを含む。
-        </div>
-      ) : (
-        <div className="border-b border-amber-100 bg-amber-50 px-4 py-2 text-center text-xs text-amber-900/80">
-          <span className="tracking-widest uppercase">Public Preview</span>
-          <span className="mx-2">—</span>
-          外部公開予定の内容だけを表示しています。
         </div>
       )}
       <div className="mx-auto flex max-w-6xl flex-col gap-3 px-4 py-5 sm:flex-row sm:items-end sm:justify-between">
@@ -83,16 +77,14 @@ export function Header({ mode = "local" }: { mode?: "local" | "public" }) {
 export function Footer({ mode = "local" }: { mode?: "local" | "public" }) {
   return (
     <footer className="mt-auto border-t border-stone-200 bg-[#f9f7f4] px-4 py-6 text-center text-xs text-stone-500">
-      {mode === "local" ? (
+      {mode === "local" && (
         <p className="tracking-wide uppercase text-stone-400">
           Local Observatory — 内部観測用
         </p>
-      ) : (
-        <p className="tracking-wide uppercase text-amber-700/70">
-          Public Preview — 公開予定コンテンツ
-        </p>
       )}
-      <p className="mt-2">スマホ動画は、未来の民俗資料館になる</p>
+      <p className={mode === "local" ? "mt-2" : ""}>
+        スマホ動画は、未来の民俗資料館になる
+      </p>
       <p className="mt-1">
         Kosuke Protocol — Observe · Sample · Recombine · Question
       </p>
