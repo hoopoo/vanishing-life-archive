@@ -36,7 +36,7 @@ export function Header({ mode = "local" }: { mode?: "local" | "public" }) {
     mode === "public"
       ? publicSite
         ? publicSiteNavItems
-        : [...publicNavItems, { href: "/export", label: "← Local Export" }]
+        : publicNavItems
       : localNavItems;
 
   return (
