@@ -1,8 +1,31 @@
 {
-  "generatedAt": "2026-07-08T23:49:57.849Z",
+  "generatedAt": "2026-07-13T05:08:24.015Z",
   "bundle": {
-    "generatedAt": "2026-07-08T23:49:57.783Z",
+    "generatedAt": "2026-07-13T05:08:23.958Z",
     "fieldNotes": [
+      {
+        "slug": "大阪の老舗喫茶店の閉店と地域文化の変遷-165",
+        "title": "大阪の老舗喫茶店の閉店と地域文化の変遷",
+        "subtitle": "老舗喫茶店の閉店は、飲食店が一つなくなる出来事であると同時に、街の生活インフラが消えていく記録でもある。常連客の時間、店主との会話、待ち合わせの記憶。日常だった場所は、閉店の瞬間に街の記憶装置へ変わっていく。",
+        "category": "地域の葬送",
+        "body": "大阪で最も古いとされる喫茶店の閉店は、地域の文化や生活様式の消失を象徴している。店主の高齢化や建物の老朽化が閉店の理由であり、これは多くの老舗飲食店が直面している問題である。動画では、後継者が現れたことで一部の伝統が受け継がれる可能性が示されているが、地域の記憶や文化がどのように次の世代に引き継がれるかは依然として重要な問いである。喫茶店の閉店は、地域の葬送として捉えられ、その影響は地域社会全体に広がる。今後、どのようにして地域の文化が再生されるのか、また新たな形での文化の継承が行われるのかが注目される。",
+        "question": "この地域の文化や記憶は、どのようにして次の世代に引き継がれていくのか？",
+        "tags": [
+          "大阪",
+          "喫茶店",
+          "閉店",
+          "地域文化",
+          "老舗",
+          "後継者",
+          "生活インフラ",
+          "地域の葬送"
+        ],
+        "sourceVideoIds": [
+          "IOr5EH9W1Pg"
+        ],
+        "createdAt": "2026-07-13T04:39:41.611Z",
+        "updatedAt": "2026-07-13T05:00:16.416Z"
+      },
       {
         "slug": "樫山集落の記憶と美しき自然-98",
         "title": "樫山集落の記憶と美しき自然",
@@ -1283,6 +1306,49 @@
     ],
     "meaningLayer": [
       {
+        "slug": "祖父母と孫の絆を深めるための家庭内民俗-ml-164",
+        "title": "祖父母と孫の絆を深めるための家庭内民俗",
+        "subtitle": "祖父母世代の生活知恵は、家の中で静かに受け継がれてきた。掃除、収納、習慣、暮らし方の工夫。こうした知識は、いまYouTube上で実用情報として再編集され、別の形で再発見されている。",
+        "category": "家庭内民俗",
+        "observe": "動画のタイトルは「孫が「また来たい」と言う家の秘密｜祖父母がやりがちなNG習慣３選」で、説明文にはシニアライフや老後の暮らしに関する内容が記載されている。チャンネル名は「60代・70代女性のためのお金と心の教養」で、2026年5月5日に公開された。視聴回数は2237回、いいねは7件、コメントは0件である。",
+        "sample": "この動画は、祖父母と孫の関係性に焦点を当てており、家庭内での交流や習慣に関する文化的な断片に属する。",
+        "recombine": "この動画は、祖父母が孫との関係を深めるための習慣や工夫を紹介しており、家庭内民俗の一環として、世代間のつながりや記憶の重要性を再確認させるものである。特に、孫との時間を大切にすることが、家族の絆を強める役割を果たすことが示されている。これは、消えゆく家庭内の文化や生活の知恵を記録し、後世に伝えるための貴重な資料となる。",
+        "question": "この動画が示すように、どのようにして祖父母と孫の関係を改善し、未来の世代にその記憶を残すことができるのか？",
+        "articleAngle": "",
+        "tags": [],
+        "sourceVideoIds": [
+          "8Ox6DGvXklk"
+        ],
+        "createdAt": "2026-07-13T04:39:29.637Z",
+        "updatedAt": "2026-07-13T05:04:16.982Z"
+      },
+      {
+        "slug": "地域の喫茶店とその記憶の葬送-ml-166",
+        "title": "地域の喫茶店とその記憶の葬送",
+        "subtitle": "この動画は、地域の生活そのものではなく、地域の歴史や記憶が連続ドラマとして再編集される事例として読める。縁結び、土地の記憶、地域文化が、放送や物語の形式を通じて外部に伝えられている。",
+        "category": "地域の葬送",
+        "observe": "動画のタイトルは「連続ドラマ「純喫茶つながり、閉店します」最終話」で、純喫茶の閉店をテーマにしたドラマの最終話を紹介している。説明文には、物語のあらすじが詳細に記載されており、主要なキャストも列挙されている。動画は2025年3月24日に公開され、視聴回数は913回、いいねは21件と比較的少ない。チャンネル名は「【公式】テレビ愛知 TV Aichi」で、公式HPやSNSのリンクも含まれている。",
+        "sample": "この動画は「純喫茶」という特定の生活文化の断片に属し、特に閉店する喫茶店の物語を通じて、地域の記憶や文化の消失を描写している。",
+        "recombine": "この動画は、単なるドラマの最終話ではなく、地域の喫茶店が持つ重要な意味を再認識させるものである。純喫茶は、地域の人々が集まり、交流する場であり、世代を超えた思い出が詰まった場所であった。閉店は、地域の生活インフラの一部が消失することを意味し、その過程で失われる記憶や文化を追悼する側面を持つ。また、ドラマを通じて、視聴者は自らの経験や記憶と重ね合わせることができ、個人のアーカイブとしての役割も果たしている。",
+        "question": "この動画は、地域の喫茶店が消えていく中で、私たちはどのようにしてその記憶を次世代に伝えていくべきなのかという問いを投げかけている。",
+        "articleAngle": "地域の喫茶店の閉店がもたらす文化的影響とその記憶の継承",
+        "tags": [
+          "純喫茶",
+          "地域文化",
+          "閉店",
+          "ドラマ",
+          "思い出",
+          "生活インフラ",
+          "記憶",
+          "家族の歴史"
+        ],
+        "sourceVideoIds": [
+          "Tm1OWVu8UMA"
+        ],
+        "createdAt": "2026-07-13T04:39:54.620Z",
+        "updatedAt": "2026-07-13T04:54:59.448Z"
+      },
+      {
         "slug": "風谷集落の記憶と消失-ml-100",
         "title": "風谷集落の記憶と消失",
         "subtitle": "この動画は、廃集落に残る生活の痕跡と、地域の中で語られにくい歴史の記憶をたどる記録として読める。家屋跡、道、地名、石碑のような断片が、かつてそこにあった暮らしと、明るく語られにくい場所の記憶を静かに示している。",
@@ -1324,23 +1390,6 @@
         "updatedAt": "2026-07-07T07:18:51.759Z"
       },
       {
-        "slug": "公開用メモ-meaning-layer-断片として整理済み-ml-163",
-        "title": "公開用メモ — Meaning Layer 断片として整理済み。",
-        "subtitle": "公開用メモ — Meaning Layer 断片として整理済み。",
-        "category": "—",
-        "observe": "",
-        "sample": "",
-        "recombine": "",
-        "question": "",
-        "articleAngle": "",
-        "tags": [],
-        "sourceVideoIds": [
-          "Chi5YGTf4Vo"
-        ],
-        "createdAt": "2026-07-02T00:30:04.750Z",
-        "updatedAt": "2026-07-03T06:20:12.291Z"
-      },
-      {
         "slug": "この動画は生活記録というより-結婚式や会社組織を舞台にした短編ドラマとして読める-見下し-権力-逆転劇といった要素が重ね-ml-763",
         "title": "この動画は生活記録というより、結婚式や会社組織を舞台にした短編ドラマとして読める。見下し、権力、逆転劇といった要素が重ねられ、現代の人間関係への不安や不満が、短い物語形式で消費されている。",
         "subtitle": "この動画は生活記録というより、結婚式や会社組織を舞台にした短編ドラマとして読める。見下し、権力、逆転劇といった要素が重ねられ、現代の人間関係への不安や不満が、短い物語形式で消費されている。",
@@ -1359,6 +1408,44 @@
       }
     ],
     "articles": [
+      {
+        "slug": "溝の口の商店街に見る生活文化の変遷-18",
+        "title": "溝の口の商店街に見る生活文化の変遷",
+        "subtitle": "昭和の面影を残す街並みとその記憶",
+        "lead": "川崎市の溝の口は、戦後の闇市をルーツに持つ商店街として知られ、昭和の面影を色濃く残す場所です。ここでは、地域の生活文化がどのように変化し、記録されているのかを観測します。",
+        "body": "川崎市の溝の口は、昭和の面影を色濃く残す商店街として、多くの人々に親しまれています。ここを歩くと、戦後の闇市をルーツに持つこの場所の歴史が感じられます。2007年の大火を経て、商店街は飲み屋街へと姿を変え、多くの名店が軒を連ねています。\n\n商店街の中には、古い建物や店舗が点在し、過去の生活文化が今も息づいていることに気づかされます。特に、地元ブルワリーが運営する「大衆食堂 みぞのくち醸造所」での食事体験は、地域の食文化がどのように身体技術として継承されているのかを実感させてくれます。\n\nまた、溝の口は江戸時代に宿場町として栄えた大山街道が通っており、歴史的な建物や老舗のお店が点在しています。これらの場所は、観光地であるだけでなく、地域の生活文化の一部として重要な役割を果たしています。\n\n商店街の変化は、地域の葬送としての側面も持ち合わせています。閉店や廃業のニュースは、地域の記憶として記録され、やがては未来の民俗資料館の一部となるでしょう。溝の口の商店街は、単なる場所ではなく、地域の生活文化がどのように消え、記録され、意味づけられているのかを考えさせる貴重な空間です。",
+        "questions": [],
+        "tags": [
+          "溝の口",
+          "商店街",
+          "昭和",
+          "地域文化",
+          "食文化",
+          "歴史"
+        ],
+        "sourceVideoIds": [],
+        "createdAt": "2026-07-13T04:46:11.456Z",
+        "updatedAt": "2026-07-13T04:47:03.488Z"
+      },
+      {
+        "slug": "団地暮らしと心の整え方-物を減らすことがもたらす静けさ-17",
+        "title": "団地暮らしと心の整え方：物を減らすことがもたらす静けさ",
+        "subtitle": "雨の日の過ごし方が映す、生活文化の変化",
+        "lead": "団地暮らしのcinnamonが、雨の日に心を整えるための静かな時間を過ごす様子を通じて、物を減らす生活がどのように心に影響を与えるのかを観測する。",
+        "body": "団地暮らしのcinnamonが映し出す雨の日の過ごし方は、物を減らすことがもたらす心の静けさを体現している。彼女の生活空間は、物が少なくなることで生まれる余白が、心の整え方に寄与していることが伺える。特に、雨音を背景にしたお茶を淹れる時間や、メルカリの梱包作業は、日常の中での小さな儀式として心の安らぎをもたらしている。\n\nこのようなミニマリストの暮らしは、物の減少が心に与える影響を示しており、日々のルーティンが心の平穏にどのように寄与しているのかを示唆している。また、メルカリを通じた物の流通も、生活文化の変化を反映している。物を手放すことが新たな生活の一部となり、地域の文化にも影響を与えている。\n\n団地という空間は、単なる住まいではなく、生活のOSとして機能している。そこに住む人々の生活が、どのように地域社会と結びついているのかを考えると、物を減らすことがもたらす静けさの中に、豊かな生活文化が息づいていることが見えてくる。",
+        "questions": [],
+        "tags": [
+          "団地暮らし",
+          "ミニマリスト",
+          "心の整え方",
+          "雨の日",
+          "メルカリ",
+          "生活文化"
+        ],
+        "sourceVideoIds": [],
+        "createdAt": "2026-07-13T04:42:32.420Z",
+        "updatedAt": "2026-07-13T04:43:52.879Z"
+      },
       {
         "slug": "人が去ったあと-土地には何が残るのか-16",
         "title": "人が去ったあと、土地には何が残るのか",
@@ -1778,7 +1865,8 @@
           "gDCtHrXTYXs",
           "R_IH1AKqQzQ",
           "xb9rW7J3K4Y",
-          "QbKUEwZ25yg"
+          "QbKUEwZ25yg",
+          "Tm1OWVu8UMA"
         ]
       },
       {
@@ -1810,6 +1898,7 @@
           "tqLYXILHYmg",
           "5fk_TWjv34M",
           "MvZPHlb1xQk",
+          "IOr5EH9W1Pg",
           "c9pU5KVqClU"
         ]
       },
@@ -1840,7 +1929,8 @@
           "2VtEv5jr7M4",
           "rEhC9sBHoNI",
           "MvZPHlb1xQk",
-          "krzat3cVrP0"
+          "krzat3cVrP0",
+          "8Ox6DGvXklk"
         ]
       },
       {
@@ -1878,7 +1968,8 @@
           "2s8Oe4s4m_I",
           "g7muX_Ypqwg",
           "QbKUEwZ25yg",
-          "L59xf2ajDsI"
+          "L59xf2ajDsI",
+          "IOr5EH9W1Pg"
         ]
       }
     ],
@@ -1911,23 +2002,6 @@
         "thumbnailUrl": "https://i.ytimg.com/vi/pTMwdk5dMk8/mqdefault.jpg",
         "publishedAt": "2026-07-03T01:00:01.000Z",
         "seedKeyword": "町工場 記録",
-        "category": "—",
-        "vanishingLifeScore": 0,
-        "tags": [],
-        "curationRole": "meaning_layer",
-        "fieldNoteSlug": null
-      },
-      {
-        "id": "Chi5YGTf4Vo",
-        "slug": "公開用メモ-meaning-layer-断片として整理済み-Chi5YGTf4Vo",
-        "title": "産婆だった祖母が、一度だけ手をついて謝った家があります #名言 #感動の館 #怖い話#60代 代 #70代",
-        "displayTitle": "公開用メモ — Meaning Layer 断片として整理済み。",
-        "publicNote": "公開用メモ — Meaning Layer 断片として整理済み。",
-        "channelTitle": "人生怪談",
-        "url": "https://www.youtube.com/watch?v=Chi5YGTf4Vo",
-        "thumbnailUrl": "https://i.ytimg.com/vi/Chi5YGTf4Vo/mqdefault.jpg",
-        "publishedAt": "2026-07-01T12:00:30.000Z",
-        "seedKeyword": "祖父母の家",
         "category": "—",
         "vanishingLifeScore": 0,
         "tags": [],
@@ -2150,6 +2224,23 @@
         "fieldNoteSlug": "レトロ自販機と地域の記憶-18"
       },
       {
+        "id": "8Ox6DGvXklk",
+        "slug": "祖父母と孫の絆を深めるための家庭内民俗-8Ox6DGvXklk",
+        "title": "孫が「また来たい」と言う家の秘密｜祖父母がやりがちなNG習慣３選",
+        "displayTitle": "祖父母と孫の絆を深めるための家庭内民俗",
+        "publicNote": "祖父母世代の生活知恵は、家の中で静かに受け継がれてきた。掃除、収納、習慣、暮らし方の工夫。こうした知識は、いまYouTube上で実用情報として再編集され、別の形で再発見されている。",
+        "channelTitle": "60代・70代女性のためのお金と心の教養",
+        "url": "https://www.youtube.com/watch?v=8Ox6DGvXklk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8Ox6DGvXklk/mqdefault.jpg",
+        "publishedAt": "2026-05-05T00:45:00.000Z",
+        "seedKeyword": "祖父母の家",
+        "category": "家庭内民俗",
+        "vanishingLifeScore": 21,
+        "tags": [],
+        "curationRole": "meaning_layer",
+        "fieldNoteSlug": null
+      },
+      {
         "id": "L59xf2ajDsI",
         "slug": "留萌線の最終日と地域の記憶-L59xf2ajDsI",
         "title": "ＪＲ留萌線最後の日　「ありがとう留萌線！」胸アツなラストアナウンス　北海道",
@@ -2201,6 +2292,32 @@
         ],
         "curationRole": "field_note",
         "fieldNoteSlug": "古民家での70代の暮らしとその意義-66"
+      },
+      {
+        "id": "IOr5EH9W1Pg",
+        "slug": "大阪の老舗喫茶店の閉店と地域文化の変遷-IOr5EH9W1Pg",
+        "title": "大阪最古ともいわれる喫茶店が閉店　背景に建物の老朽化と“店主の時給400円”　ダウンタウン愛したうどんの名店　一度失われた味を再現　受け継がれる名店の魅力｜おっカネ～NEWS〈カンテレNEWS〉",
+        "displayTitle": "大阪の老舗喫茶店の閉店と地域文化の変遷",
+        "publicNote": "老舗喫茶店の閉店は、飲食店が一つなくなる出来事であると同時に、街の生活インフラが消えていく記録でもある。常連客の時間、店主との会話、待ち合わせの記憶。日常だった場所は、閉店の瞬間に街の記憶装置へ変わっていく。",
+        "channelTitle": "カンテレNEWS",
+        "url": "https://www.youtube.com/watch?v=IOr5EH9W1Pg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IOr5EH9W1Pg/mqdefault.jpg",
+        "publishedAt": "2026-01-12T02:00:19.000Z",
+        "seedKeyword": "純喫茶 閉店",
+        "category": "地域の葬送",
+        "vanishingLifeScore": 30,
+        "tags": [
+          "大阪",
+          "喫茶店",
+          "閉店",
+          "地域文化",
+          "老舗",
+          "後継者",
+          "生活インフラ",
+          "地域の葬送"
+        ],
+        "curationRole": "field_note",
+        "fieldNoteSlug": "大阪の老舗喫茶店の閉店と地域文化の変遷-165"
       },
       {
         "id": "ZUeiDlKtXDM",
@@ -2571,6 +2688,32 @@
         ],
         "curationRole": "field_note",
         "fieldNoteSlug": "山陰本線の旅と地域文化の記録-34"
+      },
+      {
+        "id": "Tm1OWVu8UMA",
+        "slug": "地域の喫茶店とその記憶の葬送-Tm1OWVu8UMA",
+        "title": "連続ドラマ「純喫茶つながり、閉店します」最終話　純喫茶つながり、閉店します　2025年3月29日（土）午後3時30分放送",
+        "displayTitle": "地域の喫茶店とその記憶の葬送",
+        "publicNote": "この動画は、地域の生活そのものではなく、地域の歴史や記憶が連続ドラマとして再編集される事例として読める。縁結び、土地の記憶、地域文化が、放送や物語の形式を通じて外部に伝えられている。",
+        "channelTitle": "【公式】テレビ愛知 TV Aichi",
+        "url": "https://www.youtube.com/watch?v=Tm1OWVu8UMA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Tm1OWVu8UMA/mqdefault.jpg",
+        "publishedAt": "2025-03-24T00:40:43.000Z",
+        "seedKeyword": "純喫茶 閉店",
+        "category": "地域の葬送",
+        "vanishingLifeScore": 30,
+        "tags": [
+          "純喫茶",
+          "地域文化",
+          "閉店",
+          "ドラマ",
+          "思い出",
+          "生活インフラ",
+          "記憶",
+          "家族の歴史"
+        ],
+        "curationRole": "meaning_layer",
+        "fieldNoteSlug": null
       },
       {
         "id": "Vv_8BZJM-0M",
@@ -3461,14 +3604,6 @@
         "publishedAt": "2026-07-03T01:00:01.000Z"
       },
       {
-        "id": "Chi5YGTf4Vo",
-        "title": "産婆だった祖母が、一度だけ手をついて謝った家があります #名言 #感動の館 #怖い話#60代 代 #70代",
-        "channelTitle": "人生怪談",
-        "url": "https://www.youtube.com/watch?v=Chi5YGTf4Vo",
-        "thumbnailUrl": "https://i.ytimg.com/vi/Chi5YGTf4Vo/mqdefault.jpg",
-        "publishedAt": "2026-07-01T12:00:30.000Z"
-      },
-      {
         "id": "NaNiu--RfEc",
         "title": "【草刈り】大成長した大量の雑草を短時間でスッキリさせる!",
         "channelTitle": "孫達の田舎暮らし",
@@ -3541,6 +3676,14 @@
         "publishedAt": "2026-05-06T11:01:32.000Z"
       },
       {
+        "id": "8Ox6DGvXklk",
+        "title": "孫が「また来たい」と言う家の秘密｜祖父母がやりがちなNG習慣３選",
+        "channelTitle": "60代・70代女性のためのお金と心の教養",
+        "url": "https://www.youtube.com/watch?v=8Ox6DGvXklk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8Ox6DGvXklk/mqdefault.jpg",
+        "publishedAt": "2026-05-05T00:45:00.000Z"
+      },
+      {
         "id": "L59xf2ajDsI",
         "title": "ＪＲ留萌線最後の日　「ありがとう留萌線！」胸アツなラストアナウンス　北海道",
         "channelTitle": "STVニュース北海道",
@@ -3555,6 +3698,14 @@
         "url": "https://www.youtube.com/watch?v=Y3-DleTWA7w",
         "thumbnailUrl": "https://i.ytimg.com/vi/Y3-DleTWA7w/mqdefault.jpg",
         "publishedAt": "2026-02-02T06:27:49.000Z"
+      },
+      {
+        "id": "IOr5EH9W1Pg",
+        "title": "大阪最古ともいわれる喫茶店が閉店　背景に建物の老朽化と“店主の時給400円”　ダウンタウン愛したうどんの名店　一度失われた味を再現　受け継がれる名店の魅力｜おっカネ～NEWS〈カンテレNEWS〉",
+        "channelTitle": "カンテレNEWS",
+        "url": "https://www.youtube.com/watch?v=IOr5EH9W1Pg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IOr5EH9W1Pg/mqdefault.jpg",
+        "publishedAt": "2026-01-12T02:00:19.000Z"
       },
       {
         "id": "ZUeiDlKtXDM",
@@ -3691,6 +3842,14 @@
         "url": "https://www.youtube.com/watch?v=ZGDOpzPTADc",
         "thumbnailUrl": "https://i.ytimg.com/vi/ZGDOpzPTADc/mqdefault.jpg",
         "publishedAt": "2025-04-04T11:00:08.000Z"
+      },
+      {
+        "id": "Tm1OWVu8UMA",
+        "title": "連続ドラマ「純喫茶つながり、閉店します」最終話　純喫茶つながり、閉店します　2025年3月29日（土）午後3時30分放送",
+        "channelTitle": "【公式】テレビ愛知 TV Aichi",
+        "url": "https://www.youtube.com/watch?v=Tm1OWVu8UMA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Tm1OWVu8UMA/mqdefault.jpg",
+        "publishedAt": "2025-03-24T00:40:43.000Z"
       },
       {
         "id": "Vv_8BZJM-0M",
@@ -4031,10 +4190,10 @@
     ]
   },
   "stats": {
-    "videoCount": 73,
-    "fieldNoteCount": 69,
-    "unanalyzedPublicCount": 3,
-    "meaningLayerCount": 4,
+    "videoCount": 76,
+    "fieldNoteCount": 70,
+    "unanalyzedPublicCount": 2,
+    "meaningLayerCount": 5,
     "activeSeedCount": 20,
     "categoryCounts": {
       "消失の実況": 5,
@@ -4044,12 +4203,18 @@
       "移住・再生活": 5,
       "ノスタルジー商品化": 7,
       "観光化された記憶": 7,
-      "地域の葬送": 10,
+      "地域の葬送": 11,
       "家庭内民俗": 6,
       "生活インフラの記録": 2,
       "古民家再生": 1
     },
     "recentFieldNotes": [
+      {
+        "videoId": "IOr5EH9W1Pg",
+        "fieldNoteTitle": "大阪の老舗喫茶店の閉店と地域文化の変遷",
+        "category": "地域の葬送",
+        "vanishingLifeScore": 30
+      },
       {
         "videoId": "L59xf2ajDsI",
         "fieldNoteTitle": "留萌線の最終日と地域の記憶",
@@ -4073,12 +4238,6 @@
         "fieldNoteTitle": "古民家での70代の暮らしとその意義",
         "category": "家庭内民俗",
         "vanishingLifeScore": 25
-      },
-      {
-        "videoId": "IlBJBIsSeIA",
-        "fieldNoteTitle": "都市と田舎の生活の交差点",
-        "category": "移住・再生活",
-        "vanishingLifeScore": 22
       }
     ],
     "topVideos": [
@@ -4101,25 +4260,25 @@
         "category": "地域の葬送"
       },
       {
+        "videoId": "IOr5EH9W1Pg",
+        "title": "大阪の老舗喫茶店の閉店と地域文化の変遷",
+        "vanishingLifeScore": 30,
+        "category": "地域の葬送"
+      },
+      {
         "videoId": "mock005_farm_kitchen",
         "title": "母の台所 — 味噌作りの記録",
         "vanishingLifeScore": 29,
         "category": "消えかける生活技術"
-      },
-      {
-        "videoId": "mock001_village_school",
-        "title": "最後の卒業式 — 廃校前の村",
-        "vanishingLifeScore": 28,
-        "category": "消失の実況"
       }
     ],
     "articleCandidates": [
       {
-        "videoId": "g7muX_Ypqwg",
-        "heading": "樫山集落の記憶と美しき自然",
+        "videoId": "IOr5EH9W1Pg",
+        "heading": "大阪の老舗喫茶店の閉店と地域文化の変遷",
         "subline": null,
-        "publicNoteExcerpt": "椿山集落の記録は、廃村を単なる無人化としてではなく、自然、古道、信仰、伝統が重なった場所として見せている。人が去ったあとも、山道や地名、祠や風景には、かつてそこにあった暮らしの気配が残っている。",
-        "sourceTitle": "【廃村探訪】樫山集落 - 滅びゆく集落に息づく大自然の絶景と古神道の流れを汲む伝統を守り続けた人々の歴史",
+        "publicNoteExcerpt": "老舗喫茶店の閉店は、飲食店が一つなくなる出来事であると同時に、街の生活インフラが消えていく記録でもある。常連客の時間、店主との会話、待ち合わせの記憶。日常だった場所は、閉店の瞬間に街の記憶装置へ変わっていく。",
+        "sourceTitle": "大阪最古ともいわれる喫茶店が閉店　背景に建物の老朽化と“店主の時給400円”　ダウンタウン愛したうどんの名店　一度失われた味を再現　受け継がれる名店の魅力｜おっカネ～NEWS〈カンテレNEWS〉",
         "category": "地域の葬送",
         "vanishingLifeScore": 30
       },
@@ -4131,6 +4290,15 @@
         "sourceTitle": "ＪＲ留萌線最後の日　「ありがとう留萌線！」胸アツなラストアナウンス　北海道",
         "category": "地域の葬送",
         "vanishingLifeScore": 27
+      },
+      {
+        "videoId": "g7muX_Ypqwg",
+        "heading": "樫山集落の記憶と美しき自然",
+        "subline": null,
+        "publicNoteExcerpt": "椿山集落の記録は、廃村を単なる無人化としてではなく、自然、古道、信仰、伝統が重なった場所として見せている。人が去ったあとも、山道や地名、祠や風景には、かつてそこにあった暮らしの気配が残っている。",
+        "sourceTitle": "【廃村探訪】樫山集落 - 滅びゆく集落に息づく大自然の絶景と古神道の流れを汲む伝統を守り続けた人々の歴史",
+        "category": "地域の葬送",
+        "vanishingLifeScore": 30
       },
       {
         "videoId": "2s8Oe4s4m_I",
@@ -4149,18 +4317,27 @@
         "sourceTitle": "田舎暮らしのリアル東京→地方移住/小さな平屋で暮らす30代夫婦の日常【移住144】",
         "category": "移住・再生活",
         "vanishingLifeScore": 24
-      },
-      {
-        "videoId": "mock001_village_school",
-        "heading": "最後の卒業式 — 廃校前の村",
-        "subline": null,
-        "publicNoteExcerpt": "人口300人の村で撮られた最後の卒業式は、学校の記録であると同時に、地域の未来を見送る記録でもある。教室、校庭、通学路、子どもの声。学校が閉じるとき、そこに結びついていた生活の時間も静かに変わっていく。",
-        "sourceTitle": "【廃校記録】人口300の村、最後の卒業式を撮った",
-        "category": "消失の実況",
-        "vanishingLifeScore": 28
       }
     ],
     "meaningLayerCandidates": [
+      {
+        "videoId": "8Ox6DGvXklk",
+        "heading": "祖父母と孫の絆を深めるための家庭内民俗",
+        "subline": null,
+        "publicNoteExcerpt": "祖父母世代の生活知恵は、家の中で静かに受け継がれてきた。掃除、収納、習慣、暮らし方の工夫。こうした知識は、いまYouTube上で実用情報として再編集され、別の形で再発見されている。",
+        "sourceTitle": "孫が「また来たい」と言う家の秘密｜祖父母がやりがちなNG習慣３選",
+        "category": "家庭内民俗",
+        "vanishingLifeScore": 21
+      },
+      {
+        "videoId": "Tm1OWVu8UMA",
+        "heading": "地域の喫茶店とその記憶の葬送",
+        "subline": "地域の喫茶店の閉店がもたらす文化的影響とその記憶の継承",
+        "publicNoteExcerpt": "この動画は、地域の生活そのものではなく、地域の歴史や記憶が連続ドラマとして再編集される事例として読める。縁結び、土地の記憶、地域文化が、放送や物語の形式を通じて外部に伝えられている。",
+        "sourceTitle": "連続ドラマ「純喫茶つながり、閉店します」最終話　純喫茶つながり、閉店します　2025年3月29日（土）午後3時30分放送",
+        "category": "地域の葬送",
+        "vanishingLifeScore": 30
+      },
       {
         "videoId": "QbKUEwZ25yg",
         "heading": "風谷集落の記憶と消失",
@@ -4181,21 +4358,12 @@
       },
       {
         "videoId": "Chi5YGTf4Vo",
-        "heading": "観測待ちの断片",
+        "heading": "祖母の記憶と家族の絆",
         "subline": null,
         "publicNoteExcerpt": "公開用メモ — Meaning Layer 断片として整理済み。",
         "sourceTitle": "産婆だった祖母が、一度だけ手をついて謝った家があります #名言 #感動の館 #怖い話#60代 代 #70代",
-        "category": "—",
-        "vanishingLifeScore": 0
-      },
-      {
-        "videoId": "pTMwdk5dMk8",
-        "heading": "観測待ちの断片",
-        "subline": null,
-        "publicNoteExcerpt": "この動画は生活記録というより、結婚式や会社組織を舞台にした短編ドラマとして読める。見下し、権力、逆転劇といった要素が重ねられ、現代の人間関係への不安や不満が、短い物語形式で消費されている。",
-        "sourceTitle": "「君の会社なんてすぐに潰せるｗ」結婚式で新婦の上司に侮辱された新郎。しかし次の瞬間社長の一言で会場が凍りつ",
-        "category": "—",
-        "vanishingLifeScore": 0
+        "category": "家庭内民俗",
+        "vanishingLifeScore": 26
       }
     ],
     "clusters": [
@@ -4203,8 +4371,8 @@
         "id": 1,
         "title": "地域の葬送",
         "question": "人はなぜ、地域の終わりを動画で見送るのか。",
-        "itemCount": 16,
-        "candidateCount": 35,
+        "itemCount": 17,
+        "candidateCount": 40,
         "tags": [
           "地域",
           "葬送",
@@ -4219,7 +4387,7 @@
         "title": "失われる移動感覚",
         "question": "移動手段が消えると、地域の時間感覚はどう変わるのか。",
         "itemCount": 13,
-        "candidateCount": 23,
+        "candidateCount": 24,
         "tags": [
           "ローカル線",
           "車窓",
@@ -4233,8 +4401,8 @@
         "id": 2,
         "title": "家庭内民俗",
         "question": "レシピや言葉では残らない生活技術は、どのように継承されるのか。",
-        "itemCount": 12,
-        "candidateCount": 58,
+        "itemCount": 13,
+        "candidateCount": 73,
         "tags": [
           "家庭",
           "台所",
@@ -4248,8 +4416,8 @@
         "id": 5,
         "title": "昭和・平成の生活記憶",
         "question": "なぜ近過去の生活は、こんなにも早く懐かしさの対象になるのか。",
-        "itemCount": 14,
-        "candidateCount": 50,
+        "itemCount": 15,
+        "candidateCount": 52,
         "tags": [
           "昭和",
           "平成",
@@ -4263,8 +4431,8 @@
         "id": 3,
         "title": "生活インフラの記憶装置化",
         "question": "日常だったものは、いつ記憶装置になるのか。",
-        "itemCount": 14,
-        "candidateCount": 37,
+        "itemCount": 15,
+        "candidateCount": 40,
         "tags": [
           "レトロ",
           "自販機",
